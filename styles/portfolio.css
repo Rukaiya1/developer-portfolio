@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+header {
+  background: #fff8f3;
+}
+nav {
+  display: flex;
+  justify-content: space-around;
+  padding: 50px;
+}
+.nav-title {
+  font-weight: 800;
+  font-size: 45px;
+}
+.text-primary {
+  color: #fd6e0a;
+}
+nav ul {
+  display: flex;
+}
+nav li {
+  padding: 20px;
+  list-style: none;
+}
+.info-title {
+  font-weight: 600;
+  font-size: 45px;
+  
+}
+.info-sub{
+    font-weight: 700;
+font-size: 85px;
+}
